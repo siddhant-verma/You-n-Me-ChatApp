@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "120431635661",
+    "project_id": "you-n-me-8d22a",
+    "storage_bucket": "you-n-me-8d22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120431635661:android:d4c6d2d308657d197a0d84",
+        "android_client_info": {
+          "package_name": "com.example.demoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120431635661-mlsc551ldjdnk6dqvi1u97ldohv2a1hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8aE6BFJwOnek0RKLiEPzu1wsRzVxGQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120431635661-mlsc551ldjdnk6dqvi1u97ldohv2a1hm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120431635661-a636b1ug6l42j7904k5rvk7r3jjta112.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.demoo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
